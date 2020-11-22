@@ -17,6 +17,7 @@ LICENSE: [LGPL](./license.md)
 2.7. [git diff](./diff.md) 
 3. [Работа с удаленным репозиторием](./repozit.md)
 4. [Получение данных о состоянии репозитория](./info.md) 
+
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
