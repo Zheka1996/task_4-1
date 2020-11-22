@@ -16,6 +16,7 @@ LICENSE: [LGPL](./license.md)
 2.6. [git difftool](./difftool.md)  
 2.7. [git diff](./diff.md) 
 3. [Работа с удаленным репозиторием](./repozit.md)
+
 4. [Получение данных о состоянии репозитория](./info.md) 
 
 ---
